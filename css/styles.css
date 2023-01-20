@@ -268,4 +268,5 @@ animation: 4s color-change infinite alternate linear;
 
 .cloud-back {
   animation: 34s cloud-move-reverse infinite alternate linear;
+ }
 }
